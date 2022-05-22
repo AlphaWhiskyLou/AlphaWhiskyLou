@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AlphaWhiskyLou (David Lou)
 - 🎃Currently studying in Tongji University
-- 🤖Software Engineer Intern at Unity![image style="zoom: 50%;"](https://user-images.githubusercontent.com/62586200/169695525-48677f27-2dbf-4c57-87bb-58ef03fb480c.png)
+- ![image 1](https://user-images.githubusercontent.com/62586200/169695728-91fc50ff-f9b2-4f17-94bc-36ca1be05b9b.png)Software Engineer Intern at Unity
+
 
 
 
