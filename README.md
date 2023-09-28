@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlphaWhiskyLou (David Lou)
+- 👋 Hi, I’m @Tianyu Lou (David Lou)
 -  <img width="30px" alt="image" src="https://github.com/AlphaWhiskyLou/AlphaWhiskyLou/assets/62586200/b67d8740-b8dc-4600-8c11-69b9173f0d08"> Bachelor of Engineering in Software Engineering, Tongji University（2019.9-2023.7）
 -  ![image 1](https://user-images.githubusercontent.com/62586200/169695728-91fc50ff-f9b2-4f17-94bc-36ca1be05b9b.png) Software Engineer Intern, Unity（2022.1-2023.6）
 -  <img width="30px" alt="image" src="https://th.bing.com/th/id/R.34205ce94dd7da45271993a24eff161c?rik=D9fUxs8QI5UIRg&riu=http%3a%2f%2f4.bp.blogspot.com%2f_V1hbANfFpgg%2fTAWuMWFbqgI%2fAAAAAAAABDA%2fVEand1O8oMs%2fs1600%2fcornell%2buniversity%2b2.gif&ehk=aa6p%2fDDV5IzLf0eKVziFoXcMDsBZZvYAnoGscY68q4s%3d&risl=&pid=ImgRaw&r=0"> <img width="100px" alt="image" src="https://github.com/AlphaWhiskyLou/AlphaWhiskyLou/assets/62586200/6f7c0af1-9918-4205-a6e5-1a20fe856998"> Master of Engineering in Computer Science, Cornell Tech (2023.8)
